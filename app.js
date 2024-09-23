@@ -4,3 +4,7 @@ const b = 20;
 const sum = ()=>{
     return a+b;
 }
+
+const mul = ()=>{
+    return a*b;
+}
