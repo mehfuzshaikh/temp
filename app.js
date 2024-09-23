@@ -8,3 +8,7 @@ const sum = ()=>{
 const mul = ()=>{
     return a*b;
 }
+
+count div = ()=>{
+    return a/b;
+}
