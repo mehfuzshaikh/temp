@@ -9,6 +9,6 @@ const mul = ()=>{
     return a*b;
 }
 
-count div = ()=>{
+const div = ()=>{
     return a/b;
 }
