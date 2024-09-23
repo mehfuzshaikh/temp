@@ -8,3 +8,7 @@ const sum = ()=>{
 const mul = ()=>{
     return a*b;
 }
+
+const sub = ()=>{
+    return a-b;
+}
