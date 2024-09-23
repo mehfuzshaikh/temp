@@ -12,3 +12,6 @@ const mul = ()=>{
 const div = ()=>{
     return a/b;
 }
+const sub = ()=>{
+    return a-b;
+}
